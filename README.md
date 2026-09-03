@@ -9,6 +9,7 @@ Biblioteca pública de recursos visuales compartidos por:
 ## Estructura
 
 - `badges/buyer-tiers/`: insignias de fidelidad para compradores.
+- `badges/vip/`: emblemas para identificar a clientes que ya realizaron compras.
 
 Los consumidores deben usar URLs CDN versionadas por commit. De esta forma, una actualización futura no modifica imágenes ya publicadas ni consume transferencia estática de Vercel.
 
